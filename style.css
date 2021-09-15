@@ -1,0 +1,18 @@
+body {
+    background-image: url("images/spunkboib.gif");
+    background-repeat: repeat;
+    background-size: 125px;
+    background-color: black;
+}
+#sexy {
+    color: #F931FF;
+    background-color: black;
+    font-size: 15px;
+}
+.butt {
+    text-align: center;
+    width: 250px;
+    height: 75px;
+    display: flex;
+    align-content: center;
+}
